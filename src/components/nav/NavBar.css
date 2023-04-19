@@ -1,0 +1,50 @@
+.nav
+{
+  background-color:rgb(31, 47, 60);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 25px;
+  padding-left: 25px;
+  
+    
+}
+a{
+    color: white
+}
+.login
+{
+    background-color:rgb(31, 47, 60);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT';
+}
+.bar
+{
+    display: flex;
+    list-style: none;
+    padding-left:12px;
+}
+.navigation
+{
+    background-color:rgb(31, 47, 60);
+    margin-top:0px;
+    position: sticky;
+    top:0;
+}
+.login:hover,.nav:hover{
+  background-color:rgb(42, 114, 173);
+}
+.E
+{
+  
+  font-size: larger;
+}
+.h1title
+{
+  text-align: center;
+  font-family:'Gill Sans', 'Gill Sans MT';
+}

@@ -1,0 +1,29 @@
+.title
+{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.klogo
+{
+    height: 100px;
+    padding-right:50px;
+    padding-top: 15px;
+}
+.clglogo
+{
+    height:100px;
+    padding-left:25px;
+    padding-top: 15px
+}
+.clgtitle
+{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT';
+    font-size:50px
+}
+.navitems
+{
+    font-family:'Gill Sans', 'Gill Sans MT';
+}
+

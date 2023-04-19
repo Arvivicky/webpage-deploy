@@ -1,0 +1,16 @@
+.poster
+{
+    border-radius: 15px;
+    width: 50%;
+    height: 50%;
+    box-shadow: black 0px 0px 20px 0.2px;
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+}
+.posterimg
+{
+    
+}
